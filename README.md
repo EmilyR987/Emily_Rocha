@@ -1,6 +1,6 @@
 # Olá, sou a Emily_Rocha
 
-🎓 Estudante de Cibersegurança | Segurança Ofensiva | Forense Digital | Redes de Computadores | Engenharia Social | 
+🎓 Estudante de Cibersegurança | Segurança Ofensiva | Forense Digital | Criptografia | Redes de Computadores | Engenharia Social | 
 
 💻 Projetos com Arduino, Scripts em Python, C++ e automação de testes de segurança
 
